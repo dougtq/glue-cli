@@ -1,0 +1,11 @@
+{
+  "name": "glue-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dougtq/glue-cli.git",
+  "author": "dougtq <douglas.expalves@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gluegun": "^3.3.3"
+  }
+}
