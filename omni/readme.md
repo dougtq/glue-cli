@@ -1,6 +1,6 @@
-# omni CLI
+# OMNI CLI
 
-A CLI for omni.
+A CLI for OMNI.
 
 ## Customizing your CLI
 
